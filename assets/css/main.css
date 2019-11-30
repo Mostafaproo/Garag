@@ -461,7 +461,7 @@
 
 @media (max-width:768px) {
   .logo-footer {
-    text-align: center;
+    text-align: center !important;
     margin-bottom: 20px;
   }
 
